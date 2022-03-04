@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="58.1740" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-04T13:38:55" tests="0" file="cypress/integration/registerUser.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Casos de prueba Organic Challenge" timestamp="2022-03-04T13:38:55" tests="2" time="58.1740" failures="0">
+    <testcase name="Casos de prueba Organic Challenge Registro de usuario" time="25.0530" classname="Registro de usuario">
+    </testcase>
+    <testcase name="Casos de prueba Organic Challenge Creando la WhishList" time="33.1210" classname="Creando la WhishList">
+    </testcase>
+  </testsuite>
+</testsuites>

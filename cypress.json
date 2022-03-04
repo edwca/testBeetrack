@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://automationstore.onlineweb.shop/",
+  "pluginsFile": false,
+  "browser": "chrome",
+  "headless": true,
+  "reporter": "junit",
+  "chromeWebSecurity": false,
+  "compilerOptions": {
+    "types": ["cypress", "cypress-real-events"]
+  },
+  "reporterOptions": {
+    "mochaFile": "informes/testEjecucion.xml",
+    "toConsole": true
+  }
+ 
+}
